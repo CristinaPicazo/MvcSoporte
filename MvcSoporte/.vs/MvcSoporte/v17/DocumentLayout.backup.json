@@ -3,6 +3,21 @@
   "WorkspaceRootPath": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQL15/aspnet_MvcSoporte_24c83321_a616_4eec_8d4c_c38b7f105426/True/SqlTable/dbo.Aviso.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Migrations\\20250201104514_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MvcSoporte\\Migrations\\20250201104514_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\data\\mvcsoportecontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\data\\mvcsoportecontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,19 +58,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "dbo.Aviso [Datos]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQL15/aspnet_MvcSoporte_24c83321_a616_4eec_8d4c_c38b7f105426/True/SqlTable/dbo.Aviso.sql",
+              "ToolTip": "dbo.Aviso [Datos]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-01T10:48:44.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250201104514_Inicial.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Migrations\\20250201104514_Inicial.cs",
+              "RelativeDocumentMoniker": "MvcSoporte\\Migrations\\20250201104514_Inicial.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Migrations\\20250201104514_Inicial.cs",
+              "RelativeToolTip": "MvcSoporte\\Migrations\\20250201104514_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:45:14.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcSoporte\\appsettings.json",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\appsettings.json",
+              "RelativeToolTip": "MvcSoporte\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-01T10:42:35.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Program.cs",
+              "RelativeDocumentMoniker": "MvcSoporte\\Program.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Program.cs",
+              "RelativeToolTip": "MvcSoporte\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:39:43.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MvcSoporteContexto.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Data\\MvcSoporteContexto.cs",
               "RelativeDocumentMoniker": "MvcSoporte\\Data\\MvcSoporteContexto.cs",
               "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Data\\MvcSoporteContexto.cs",
               "RelativeToolTip": "MvcSoporte\\Data\\MvcSoporteContexto.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA7wB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T17:36:22.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "MvcSoporte\\Data\\ApplicationDbContext.cs",
@@ -63,12 +127,11 @@
               "RelativeToolTip": "MvcSoporte\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T17:35:31.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T17:35:31.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Aviso.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Models\\Aviso.cs",
               "RelativeDocumentMoniker": "MvcSoporte\\Models\\Aviso.cs",
@@ -76,12 +139,11 @@
               "RelativeToolTip": "MvcSoporte\\Models\\Aviso.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T17:30:08.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T17:30:08.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Equipo.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Models\\Equipo.cs",
               "RelativeDocumentMoniker": "MvcSoporte\\Models\\Equipo.cs",
@@ -89,12 +151,11 @@
               "RelativeToolTip": "MvcSoporte\\Models\\Equipo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T17:24:49.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T17:24:49.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Localizacion.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Models\\Localizacion.cs",
               "RelativeDocumentMoniker": "MvcSoporte\\Models\\Localizacion.cs",
@@ -102,12 +163,11 @@
               "RelativeToolTip": "MvcSoporte\\Models\\Localizacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T17:24:21.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T17:24:21.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "TipoAveria.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Models\\TipoAveria.cs",
               "RelativeDocumentMoniker": "MvcSoporte\\Models\\TipoAveria.cs",
@@ -115,12 +175,11 @@
               "RelativeToolTip": "MvcSoporte\\Models\\TipoAveria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T17:23:54.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T17:23:54.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Empleado.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Models\\Empleado.cs",
               "RelativeDocumentMoniker": "MvcSoporte\\Models\\Empleado.cs",
@@ -128,8 +187,7 @@
               "RelativeToolTip": "MvcSoporte\\Models\\Empleado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T17:22:13.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T17:22:13.503Z"
             }
           ]
         }
