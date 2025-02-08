@@ -3,72 +3,20 @@
   "WorkspaceRootPath": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\controllers\\misavisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\controllers\\misavisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\views\\misavisos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\views\\misavisos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\wwwroot\\lib\\jquery\\dist\\jquery.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\views\\misavisos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\views\\misavisos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\views\\equipos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\views\\equipos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\views\\avisos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\views\\avisos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\mvcsoporte\\mvcsoporte\\mvcsoporte\\controllers\\avisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7325DA48-0781-4638-BF3E-670519661C98}|MvcSoporte\\MvcSoporte.csproj|solutionrelative:mvcsoporte\\controllers\\avisoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,222 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "MvcSoporte\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "MvcSoporte\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T18:14:19.357Z",
+              "Title": "MisAvisosController.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Controllers\\MisAvisosController.cs",
+              "RelativeDocumentMoniker": "MvcSoporte\\Controllers\\MisAvisosController.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Controllers\\MisAvisosController.cs",
+              "RelativeToolTip": "MvcSoporte\\Controllers\\MisAvisosController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T18:30:57.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "jquery.validate.unobtrusive.js",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-              "RelativeDocumentMoniker": "MvcSoporte\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-              "RelativeToolTip": "MvcSoporte\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-06T18:14:10.438Z",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\MisAvisos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MvcSoporte\\Views\\MisAvisos\\Edit.cshtml",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\MisAvisos\\Edit.cshtml",
+              "RelativeToolTip": "MvcSoporte\\Views\\MisAvisos\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T18:30:30.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "jquery.js",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "RelativeDocumentMoniker": "MvcSoporte\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "RelativeToolTip": "MvcSoporte\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-              "ViewState": "AgIAAEAqAAAAAAAAAAAzwE4qAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-06T18:13:44.475Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\MisAvisos\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcSoporte\\Views\\MisAvisos\\Create.cshtml",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\MisAvisos\\Create.cshtml",
+              "RelativeToolTip": "MvcSoporte\\Views\\MisAvisos\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-08T18:16:01.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "bootstrap.min.js.map",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-              "RelativeDocumentMoniker": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-              "RelativeToolTip": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACXdQIAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-06T18:13:41.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "bootstrap.js.map",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-              "RelativeDocumentMoniker": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-              "RelativeToolTip": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAD1cAEAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-06T18:13:38.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "bootstrap.js",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-              "RelativeDocumentMoniker": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-              "RelativeToolTip": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
-              "ViewState": "AgIAAFkMAAAAAAAAAAAAAEEMAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-06T18:13:23.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "bootstrap.esm.min.js.map",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-              "RelativeDocumentMoniker": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-              "RelativeToolTip": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAD/jQIAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-06T18:13:21.072Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "bootstrap.esm.js.map",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-              "RelativeDocumentMoniker": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-              "RelativeToolTip": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADhcAEAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-06T18:13:13.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "bootstrap.esm.js",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-              "RelativeDocumentMoniker": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-              "RelativeToolTip": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
-              "ViewState": "AgIAACcMAAAAAAAAAAAAACcMAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-06T18:13:10.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "bootstrap.bundle.min.js.map",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-              "RelativeDocumentMoniker": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-              "RelativeToolTip": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAC1IwQAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-06T18:13:07.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "bootstrap.bundle.js.map",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-              "RelativeDocumentMoniker": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-              "RelativeToolTip": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACingIAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-06T18:13:04.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "bootstrap.bundle.js",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "RelativeDocumentMoniker": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "RelativeToolTip": "MvcSoporte\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
-              "ViewState": "AgIAABsTAAAAAAAAAAAAABsTAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-06T18:13:01.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\Equipos\\Details.cshtml",
-              "RelativeDocumentMoniker": "MvcSoporte\\Views\\Equipos\\Details.cshtml",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\Equipos\\Details.cshtml",
-              "RelativeToolTip": "MvcSoporte\\Views\\Equipos\\Details.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAHoAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T17:58:02.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EquiposController.cs",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Controllers\\EquiposController.cs",
-              "RelativeDocumentMoniker": "MvcSoporte\\Controllers\\EquiposController.cs",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Controllers\\EquiposController.cs",
-              "RelativeToolTip": "MvcSoporte\\Controllers\\EquiposController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAADwvyUAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T17:55:32.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\Avisos\\Index.cshtml",
-              "RelativeDocumentMoniker": "MvcSoporte\\Views\\Avisos\\Index.cshtml",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\Avisos\\Index.cshtml",
-              "RelativeToolTip": "MvcSoporte\\Views\\Avisos\\Index.cshtml",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T17:25:36.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AvisosController.cs",
-              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Controllers\\AvisosController.cs",
-              "RelativeDocumentMoniker": "MvcSoporte\\Controllers\\AvisosController.cs",
-              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Controllers\\AvisosController.cs",
-              "RelativeToolTip": "MvcSoporte\\Controllers\\AvisosController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAABOwEgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T20:02:47.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MvcSoporte\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MvcSoporte\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAiwCUAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-03T16:29:31.901Z",
+              "WhenOpened": "2025-02-08T17:11:17.274Z",
               "EditorCaption": ""
             }
           ]
