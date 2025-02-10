@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "MvcSoporte\\Controllers\\MisAvisosController.cs",
               "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\MvcSoporte\\MvcSoporte\\MvcSoporte\\Controllers\\MisAvisosController.cs",
               "RelativeToolTip": "MvcSoporte\\Controllers\\MisAvisosController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAqwDQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAALwAAAAAAAAAAAAuwMQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-08T18:30:57.698Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "MvcSoporte\\Views\\MisAvisos\\Edit.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T18:30:30.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T18:30:30.148Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "MvcSoporte\\Views\\MisAvisos\\Create.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T18:16:01.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T18:16:01.549Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "MvcSoporte\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-08T17:11:17.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-08T17:11:17.274Z"
             }
           ]
         }

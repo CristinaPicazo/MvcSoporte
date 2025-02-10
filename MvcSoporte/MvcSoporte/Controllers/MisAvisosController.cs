@@ -34,9 +34,10 @@ namespace MvcSoporte.Controllers
             }
             // Se seleccionan los avisos del Empleado correspondiente al usuario actual
             var misAvisos = _context.Avisos
-            .Where(a => a.EmpleadoId == empleado.Id)
-            .OrderByDescending(a => a.FechaAviso)
-            .Include(a => a.Empleado).Include(a => a.Equipo).Include(a => a.TipoAveria);
+                .Where(a => a.EmpleadoId == empleado.Id)
+                .OrderByDescending(a => a.FechaAviso)
+                .Include(a => a.Empleado).Include(a => a.Equipo).Include(a => a.TipoAveria);
+
 
             return View(await misAvisos.ToListAsync());
 
@@ -62,7 +63,13 @@ namespace MvcSoporte.Controllers
                 return NotFound();
             }
 
-
+            //Comprobar que el email de la persona asignada al aviso es el mismo email del usuario actual
+            var empleadoEmail = User.Identity.Name;
+            var avisoEmail = aviso.Empleado.Email;
+            if(empleadoEmail != avisoEmail)
+            {
+                return RedirectToAction(nameof(Index));
+            }
 
             return View(aviso);
         }
@@ -191,6 +198,14 @@ namespace MvcSoporte.Controllers
             if (aviso == null)
             {
                 return NotFound();
+            }
+
+            //Comprobar que el email de la persona asignada al aviso es el mismo email del usuario actual
+            var empleadoEmail = User.Identity.Name;
+            var avisoEmail = aviso.Empleado.Email;
+            if(empleadoEmail != avisoEmail)
+            {
+                return RedirectToAction(nameof(Index));
             }
 
             return View(aviso);
